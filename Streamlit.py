@@ -89,7 +89,7 @@ def incidences():
     st.title("Incidences")
 
     # Import the Excel files
-    Estimateddeathes = pd.read_csv(r'C:\Users\student\Desktop\Healthcare\data_projection.csv')
+    Estimateddeathes = pd.read_csv(r'data_projection.csv')
     df = Estimateddeathes
 
     # Filter Title
@@ -166,7 +166,7 @@ def incidences():
 
 
     # Import the Excel files
-    df2 = pd.read_csv(r'C:\Users\student\Desktop\Healthcare\data_cancer_statistics_dashboard 3\data_median_age.csv')
+    df2 = pd.read_csv(r'data_median_age.csv')
          
     # Display the title with increased font size
     st.markdown("<h3 style='font-size:20px; font-weight:bold;'>Median Age for Developing Cancer</h3>", unsafe_allow_html=True)
@@ -193,7 +193,7 @@ def incidences():
     
     # Graph 3: How Cancer Changed over Time
     # Import the Excel files
-    df3 = pd.read_csv(r'C:\Users\student\Desktop\Healthcare\data_cancer_statistics_dashboard 2\data_joinpoint_aapc.csv')
+    df3 = pd.read_csv(r'data_joinpoint_aapc.csv')
 
     # Display the title with increased font size
     st.markdown("<h3 style='font-size:20px; font-weight:bold;'>How Cancer Changed over Time</h3>", unsafe_allow_html=True)
@@ -256,7 +256,7 @@ def mortality():
     
     # Graph 4: How Cancer Changed over Time
     # Import the Excel files
-    df4 = pd.read_csv(r'C:\Users\student\Desktop\Healthcare\data_cancer_statistics_dashboard 2\survival_by_years_since_dx.csv')
+    df4 = pd.read_csv(r'survival_by_years_since_dx.csv')
     
     # Display the title with increased font size
     st.markdown("<h3 style='font-size:20px; font-weight:bold;'>Net Cancer Survival, by Number of Years Since Diagnosis, by Cancer, Pennsylvania Residents, 2000-2018</h3>", unsafe_allow_html=True)
@@ -311,7 +311,7 @@ def mortality():
     
     
     # Import the Excel files
-    Estimateddeathes = pd.read_csv(r'C:\Users\student\Desktop\Healthcare\data_projection.csv')
+    Estimateddeathes = pd.read_csv(r'data_projection.csv')
     df = Estimateddeathes
     
     # Filter Title
@@ -390,7 +390,7 @@ def Risk_Factors():
     st.write("<h3 style='color:#808080; font-size:14px'>The information provided highlights key cancer screening rates, cancer risk factors in Pennsylvania compared to the national average. This data can assist decision-making in the fight against cancer by identifying areas that require improvement or reinforcement. </h3>", unsafe_allow_html=True)
     
     # Read the Excel file
-    file_path = r'C:\Users\student\Desktop\Healthcare\cancer_screaning.xlsx'
+    file_path = r'cancer_screaning.xlsx'
     df1 = pd.read_excel(file_path)
     
     # Create the table with the first 2 rows
