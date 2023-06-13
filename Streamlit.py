@@ -284,12 +284,18 @@ def mortality():
     light_palette = sns.color_palette("pastel", n_colors=num_colors)
     
     # Create the line graph with light colors
+    # fig, ax = plt.subplots()
+    # for i, cancer_type in enumerate(selected_cancers):
+    #    ax.plot(filtered_df[filtered_df['cancer'] == cancer_type]['summary_interval'],
+    #            filtered_df[filtered_df['cancer'] == cancer_type]['net_relative'],
+    #            label=cancer_type, color=light_palette[i])
+    
     fig, ax = plt.subplots()
     for i, cancer_type in enumerate(selected_cancers):
-        ax.plot(filtered_df[filtered_df['cancer'] == cancer_type]['summary_interval'],
-                filtered_df[filtered_df['cancer'] == cancer_type]['net_relative'],
-                label=cancer_type, color=light_palette[i])
-    
+        x = filtered_df[filtered_df['cancer'] == cancer_type]['summary_interval'].to_numpy()
+        y = filtered_df[filtered_df['cancer'] == cancer_type]['net_relative'].to_numpy()
+        ax.plot(x[:, np.newaxis], y, label=cancer_type, color=light_palette[i])
+
     ax.set_xlabel('Years Since Diagnosis')
     ax.set_ylabel('Percent Surviving')
     ax.set_title('Survival Rate Over Time')
