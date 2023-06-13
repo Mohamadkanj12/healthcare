@@ -1,0 +1,125 @@
+"data_type","sex","cancer","median_age"
+"incidence","female","brain and other nervous system",64
+"incidence","female","breast",64
+"incidence","female","cervix uteri",52
+"incidence","female","colon and rectum",70
+"incidence","female","corpus and uterus, NOS",64
+"incidence","female","esophagus",70
+"incidence","female","Hodgkin lymphoma",39
+"incidence","female","kidney and renal pelvis",66
+"incidence","female","larynx",64
+"incidence","female","leukemia",69
+"incidence","female","liver and intrahepatic bile duct",69
+"incidence","female","lung and bronchus",71
+"incidence","female","melanoma of the skin",62
+"incidence","female","myeloma",70
+"incidence","female","non-Hodgkin lymphoma",70
+"incidence","female","oral cavity and pharynx",66
+"incidence","female","ovary",64
+"incidence","female","pancreas",73
+"incidence","female","stomach",71
+"incidence","female","thyroid",50
+"incidence","female","urinary bladder",73
+"incidence","male","brain and other nervous system",61
+"incidence","male","breast",69
+"incidence","male","colon and rectum",67
+"incidence","male","esophagus",68
+"incidence","male","Hodgkin lymphoma",43
+"incidence","male","kidney and renal pelvis",65
+"incidence","male","larynx",66
+"incidence","male","leukemia",68
+"incidence","male","liver and intrahepatic bile duct",65
+"incidence","male","lung and bronchus",70
+"incidence","male","melanoma of the skin",68
+"incidence","male","myeloma",69
+"incidence","male","non-Hodgkin lymphoma",68
+"incidence","male","oral cavity and pharynx",63
+"incidence","male","pancreas",69
+"incidence","male","prostate",67
+"incidence","male","stomach",69
+"incidence","male","testis",35
+"incidence","male","thyroid",57
+"incidence","male","urinary bladder",73
+"mortality","female","brain and other nervous system",69
+"mortality","female","breast",72
+"mortality","female","cervix uteri",60
+"mortality","female","colon and rectum",77
+"mortality","female","corpus and uterus, NOS",71
+"mortality","female","esophagus",73
+"mortality","female","Hodgkin lymphoma",72
+"mortality","female","kidney and renal pelvis",77
+"mortality","female","larynx",71
+"mortality","female","leukemia",78
+"mortality","female","liver and intrahepatic bile duct",73
+"mortality","female","lung and bronchus",73
+"mortality","female","melanoma of the skin",72
+"mortality","female","myeloma",77
+"mortality","female","non-Hodgkin lymphoma",79
+"mortality","female","oral cavity and pharynx",74
+"mortality","female","ovary",71
+"mortality","female","pancreas",75
+"mortality","female","stomach",76
+"mortality","female","thyroid",75.5
+"mortality","female","urinary bladder",82
+"mortality","male","brain and other nervous system",65
+"mortality","male","breast",73
+"mortality","male","colon and rectum",72
+"mortality","male","esophagus",70
+"mortality","male","Hodgkin lymphoma",70
+"mortality","male","kidney and renal pelvis",71
+"mortality","male","larynx",70
+"mortality","male","leukemia",76
+"mortality","male","liver and intrahepatic bile duct",67
+"mortality","male","lung and bronchus",72
+"mortality","male","melanoma of the skin",73
+"mortality","male","myeloma",74
+"mortality","male","non-Hodgkin lymphoma",76
+"mortality","male","oral cavity and pharynx",68
+"mortality","male","pancreas",71
+"mortality","male","prostate",81
+"mortality","male","stomach",71
+"mortality","male","testis",51
+"mortality","male","thyroid",73
+"mortality","male","urinary bladder",80
+"incidence","all sexes","brain and other nervous system",62
+"incidence","all sexes","breast",64
+"incidence","all sexes","colon and rectum",69
+"incidence","all sexes","esophagus",68
+"incidence","all sexes","Hodgkin lymphoma",41
+"incidence","all sexes","kidney and renal pelvis",65
+"incidence","all sexes","larynx",66
+"incidence","all sexes","leukemia",68
+"incidence","all sexes","liver and intrahepatic bile duct",66
+"incidence","all sexes","lung and bronchus",70
+"incidence","all sexes","melanoma of the skin",66
+"incidence","all sexes","myeloma",70
+"incidence","all sexes","non-Hodgkin lymphoma",69
+"incidence","all sexes","oral cavity and pharynx",64
+"incidence","all sexes","pancreas",71
+"incidence","all sexes","stomach",69
+"incidence","all sexes","thyroid",52
+"incidence","all sexes","urinary bladder",73
+"mortality","all sexes","brain and other nervous system",67
+"mortality","all sexes","breast",72
+"mortality","all sexes","colon and rectum",75
+"mortality","all sexes","esophagus",70
+"mortality","all sexes","Hodgkin lymphoma",70
+"mortality","all sexes","kidney and renal pelvis",73
+"mortality","all sexes","larynx",70
+"mortality","all sexes","leukemia",77
+"mortality","all sexes","liver and intrahepatic bile duct",69
+"mortality","all sexes","lung and bronchus",73
+"mortality","all sexes","melanoma of the skin",73
+"mortality","all sexes","myeloma",76
+"mortality","all sexes","non-Hodgkin lymphoma",77
+"mortality","all sexes","oral cavity and pharynx",69
+"mortality","all sexes","pancreas",73
+"mortality","all sexes","stomach",73
+"mortality","all sexes","thyroid",74
+"mortality","all sexes","urinary bladder",81
+"incidence","female","all cancer sites",67
+"incidence","male","all cancer sites",68
+"mortality","female","all cancer sites",74
+"mortality","male","all cancer sites",73
+"incidence","all sexes","all cancer sites",67
+"mortality","all sexes","all cancer sites",73
