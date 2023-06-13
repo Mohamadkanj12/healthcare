@@ -1,0 +1,237 @@
+county,sex,cancer,year,inc_count,death_count
+Pennsylvania,all sexes,breast,2022,11687.16518,1927.461449
+Pennsylvania,all sexes,breast,2021,11639.66096,1934.774381
+Pennsylvania,female,breast,2022,11578.19728,1906.317054
+Pennsylvania,all sexes,breast,2020,11572.16015,1938.963677
+Pennsylvania,female,breast,2021,11530.41488,1913.95775
+Pennsylvania,female,breast,2020,11463.35501,1918.487194
+Pennsylvania,all sexes,breast,2019,11429,1901
+Pennsylvania,female,breast,2019,11314,1878
+Pennsylvania,all sexes,lung and bronchus,2020,10775.40009,6568.806696
+Pennsylvania,all sexes,lung and bronchus,2021,10729.10535,6451.389871
+Pennsylvania,all sexes,lung and bronchus,2022,10673.15152,6332.034163
+Pennsylvania,all sexes,lung and bronchus,2019,10629,6574
+Pennsylvania,male,prostate,2019,9996,1346
+Pennsylvania,male,prostate,2020,9816.073971,1391.921599
+Pennsylvania,male,prostate,2022,9776.702518,1405.408403
+Pennsylvania,male,prostate,2021,9774.325415,1396.970975
+Pennsylvania,all sexes,colon and rectum,2019,6532,2316
+Pennsylvania,all sexes,colon and rectum,2020,6463.521253,2358.515255
+Pennsylvania,all sexes,colon and rectum,2021,6407.520059,2339.717372
+Pennsylvania,all sexes,colon and rectum,2022,6350.337742,2316.235029
+Pennsylvania,male,lung and bronchus,2022,5544.931355,3357.549187
+Pennsylvania,male,lung and bronchus,2021,5532.239436,3422.326768
+Pennsylvania,male,lung and bronchus,2020,5511.674168,3483.683697
+Pennsylvania,male,lung and bronchus,2019,5399,3492
+Pennsylvania,female,lung and bronchus,2020,5263.725921,3085.122999
+Pennsylvania,female,lung and bronchus,2019,5230,3082
+Pennsylvania,female,lung and bronchus,2021,5196.865916,3029.063103
+Pennsylvania,female,lung and bronchus,2022,5128.220162,2974.484976
+Pennsylvania,all sexes,urinary bladder,2020,3916.227774,836.4781799
+Pennsylvania,all sexes,urinary bladder,2021,3913.328867,838.8749469
+Pennsylvania,all sexes,urinary bladder,2022,3904.28748,841.0509164
+Pennsylvania,all sexes,urinary bladder,2019,3826,834
+Pennsylvania,male,colon and rectum,2019,3393,1168
+Pennsylvania,male,colon and rectum,2020,3343.349387,1209.778306
+Pennsylvania,all sexes,non-Hodgkin lymphoma,2022,3342.76547,1010.231563
+Pennsylvania,all sexes,non-Hodgkin lymphoma,2020,3338.122752,1009.027789
+Pennsylvania,all sexes,non-Hodgkin lymphoma,2021,3336.744933,1009.621598
+Pennsylvania,male,colon and rectum,2021,3328.22744,1202.997759
+Pennsylvania,all sexes,melanoma of the skin,2019,3321,387
+Pennsylvania,male,colon and rectum,2022,3313.920215,1193.627374
+Pennsylvania,all sexes,melanoma of the skin,2020,3242.944821,387.0694618
+Pennsylvania,all sexes,non-Hodgkin lymphoma,2019,3212,952
+Pennsylvania,female,"corpus and uterus, NOS",2022,3202.854508,592.3046531
+Pennsylvania,all sexes,melanoma of the skin,2021,3193.680073,381.3199273
+Pennsylvania,all sexes,melanoma of the skin,2022,3181.30121,375.5564804
+Pennsylvania,female,"corpus and uterus, NOS",2021,3160.852599,586.0705543
+Pennsylvania,female,colon and rectum,2019,3139,1148
+Pennsylvania,female,"corpus and uterus, NOS",2020,3120.223435,579.2711053
+Pennsylvania,female,colon and rectum,2020,3120.171866,1148.73695
+Pennsylvania,female,colon and rectum,2021,3079.29262,1136.719613
+Pennsylvania,female,colon and rectum,2022,3036.417527,1122.607655
+Pennsylvania,female,"corpus and uterus, NOS",2019,3027,583
+Pennsylvania,male,urinary bladder,2020,2921.63574,591.7624838
+Pennsylvania,male,urinary bladder,2021,2914.954778,593.7971145
+Pennsylvania,male,urinary bladder,2022,2904.009579,595.859158
+Pennsylvania,male,urinary bladder,2019,2859,582
+Pennsylvania,all sexes,kidney and renal pelvis,2022,2795.338619,619.9599359
+Pennsylvania,all sexes,kidney and renal pelvis,2021,2792.545703,619.7644267
+Pennsylvania,all sexes,kidney and renal pelvis,2020,2787.071321,619.1956809
+Pennsylvania,all sexes,kidney and renal pelvis,2019,2769,606
+Pennsylvania,all sexes,pancreas,2022,9776.052268,2232.334642
+Pennsylvania,all sexes,pancreas,2021,2707.529854,2212.358454
+Pennsylvania,all sexes,pancreas,2020,2666.313091,2191.09136
+Pennsylvania,all sexes,pancreas,2019,2599,2123
+Pennsylvania,all sexes,leukemia,2020,2355.530783,1121.044739
+Pennsylvania,all sexes,leukemia,2022,2354.809118,1121.986655
+Pennsylvania,all sexes,leukemia,2021,2354.406502,1121.598444
+Pennsylvania,all sexes,leukemia,2019,2244,1112
+Pennsylvania,all sexes,oral cavity and pharynx,2022,2242.543779,440.6194636
+Pennsylvania,all sexes,oral cavity and pharynx,2021,2224.384262,437.87889
+Pennsylvania,all sexes,thyroid,2019,2219,99
+Pennsylvania,all sexes,oral cavity and pharynx,2020,2210.586553,433.6571875
+Pennsylvania,all sexes,thyroid,2020,2169.124085,89.35794064
+Pennsylvania,all sexes,oral cavity and pharynx,2019,2151,438
+Pennsylvania,all sexes,thyroid,2021,2130.926855,91.28900056
+Pennsylvania,all sexes,thyroid,2022,2089.805221,93.16488258
+Pennsylvania,male,melanoma of the skin,2019,1952,255
+Pennsylvania,male,melanoma of the skin,2020,1905.368236,256.2736791
+Pennsylvania,male,melanoma of the skin,2021,1855.007768,256.0348419
+Pennsylvania,male,melanoma of the skin,2022,1836.238361,255.6366405
+Pennsylvania,male,non-Hodgkin lymphoma,2022,1803.58563,561.5139479
+Pennsylvania,male,non-Hodgkin lymphoma,2021,1800.53246,560.9697679
+Pennsylvania,male,non-Hodgkin lymphoma,2020,1793.846328,560.0647571
+Pennsylvania,male,kidney and renal pelvis,2020,1767.086693,382.5184862
+Pennsylvania,male,kidney and renal pelvis,2019,1767,380
+Pennsylvania,male,kidney and renal pelvis,2022,1766.91382,383.6118687
+Pennsylvania,male,kidney and renal pelvis,2021,1761.872298,383.188327
+Pennsylvania,male,non-Hodgkin lymphoma,2019,1744,518
+Pennsylvania,male,oral cavity and pharynx,2022,1601.293532,294.9916148
+Pennsylvania,male,oral cavity and pharynx,2021,1588.252197,293.3035489
+Pennsylvania,male,oral cavity and pharynx,2020,1577.975332,291.3595973
+Pennsylvania,female,thyroid,2019,1569,47
+Pennsylvania,male,oral cavity and pharynx,2019,1547,279
+Pennsylvania,female,non-Hodgkin lymphoma,2020,1544.276424,448.9630316
+Pennsylvania,female,non-Hodgkin lymphoma,2022,1539.179839,448.7176155
+Pennsylvania,female,non-Hodgkin lymphoma,2021,1536.212473,448.6518299
+Pennsylvania,female,thyroid,2020,1533.301181,43.80449505
+Pennsylvania,female,thyroid,2021,1497.395408,43.88465197
+Pennsylvania,all sexes,liver and intrahepatic bile duct,2019,1483,1160
+Pennsylvania,female,non-Hodgkin lymphoma,2019,1468,434
+Pennsylvania,female,thyroid,2022,1459.912207,43.93533673
+Pennsylvania,all sexes,liver and intrahepatic bile duct,2020,1451.592056,1233.180795
+Pennsylvania,male,pancreas,2022,1437.55649,1126.639696
+Pennsylvania,all sexes,liver and intrahepatic bile duct,2021,1423.494328,1269.410033
+Pennsylvania,male,pancreas,2021,1413.101883,1118.834978
+Pennsylvania,all sexes,liver and intrahepatic bile duct,2022,1396.914723,1305.079651
+Pennsylvania,male,pancreas,2020,1389.111165,1110.424642
+Pennsylvania,male,pancreas,2019,1382,1075
+Pennsylvania,female,melanoma of the skin,2019,1369,132
+Pennsylvania,male,leukemia,2020,1347.115912,652.8793162
+Pennsylvania,female,melanoma of the skin,2022,1345.062849,119.9198399
+Pennsylvania,male,leukemia,2021,1341.920681,653.9965733
+Pennsylvania,male,leukemia,2022,1340.643709,655.2696427
+Pennsylvania,female,melanoma of the skin,2021,1338.672306,125.2850853
+Pennsylvania,female,melanoma of the skin,2020,1337.576585,130.7957827
+Pennsylvania,all sexes,myeloma,2022,1320.566324,569.831925
+Pennsylvania,female,pancreas,2022,1312.495778,1105.694946
+Pennsylvania,all sexes,myeloma,2021,1301.177591,567.8063576
+Pennsylvania,male,leukemia,2019,1301,640
+Pennsylvania,female,pancreas,2021,1294.427971,1093.523476
+Pennsylvania,all sexes,myeloma,2020,1282.576224,565.8272245
+Pennsylvania,female,pancreas,2020,1277.201926,1080.666718
+Pennsylvania,female,pancreas,2019,1217,1048
+Pennsylvania,all sexes,myeloma,2019,1200,567
+Pennsylvania,all sexes,brain and other nervous system,2022,1059.445526,797.1077384
+Pennsylvania,all sexes,brain and other nervous system,2021,1057.755171,787.7738775
+Pennsylvania,all sexes,brain and other nervous system,2020,1054.883958,778.6077021
+Pennsylvania,all sexes,stomach,2019,1037,444
+Pennsylvania,all sexes,stomach,2022,1033.095629,435.9479493
+Pennsylvania,male,liver and intrahepatic bile duct,2019,1033,787
+Pennsylvania,all sexes,stomach,2020,1032.810593,430.0963124
+Pennsylvania,all sexes,stomach,2021,1032.309985,433.1362902
+Pennsylvania,female,kidney and renal pelvis,2021,1030.673404,236.5760997
+Pennsylvania,all sexes,brain and other nervous system,2019,1030,734
+Pennsylvania,female,kidney and renal pelvis,2022,1028.424799,236.3480672
+Pennsylvania,female,kidney and renal pelvis,2020,1019.984628,236.6771947
+Pennsylvania,female,leukemia,2022,1014.165409,466.7170127
+Pennsylvania,male,liver and intrahepatic bile duct,2020,1012.974422,835.6584875
+Pennsylvania,female,leukemia,2021,1012.485821,467.6018711
+Pennsylvania,female,leukemia,2020,1008.414871,468.1654232
+Pennsylvania,female,kidney and renal pelvis,2019,1002,226
+Pennsylvania,female,urinary bladder,2022,1000.277901,245.1917584
+Pennsylvania,female,urinary bladder,2021,998.3740889,245.0778324
+Pennsylvania,female,urinary bladder,2020,994.5920341,244.7156961
+Pennsylvania,male,liver and intrahepatic bile duct,2021,993.9617091,864.1218455
+Pennsylvania,all sexes,esophagus,2019,993,810
+Pennsylvania,all sexes,esophagus,2022,983.3369226,803.941192
+Pennsylvania,male,liver and intrahepatic bile duct,2022,975.2692777,892.2933725
+Pennsylvania,all sexes,esophagus,2021,973.7413402,802.5102773
+Pennsylvania,female,urinary bladder,2019,967,252
+Pennsylvania,all sexes,esophagus,2020,963.6880322,801.3935924
+Pennsylvania,female,ovary,2020,945.0466585,628.6273077
+Pennsylvania,female,leukemia,2019,943,472
+Pennsylvania,female,ovary,2021,942.923506,620.3258543
+Pennsylvania,female,ovary,2019,940,655
+Pennsylvania,female,ovary,2022,939.6645673,611.9783009
+Pennsylvania,male,esophagus,2019,811,652
+Pennsylvania,male,esophagus,2022,798.4490336,644.4280419
+Pennsylvania,male,esophagus,2021,789.1671426,643.1733914
+Pennsylvania,male,esophagus,2020,779.6015659,642.3391389
+Pennsylvania,male,myeloma,2022,764.88716,307.4117805
+Pennsylvania,male,myeloma,2021,750.4118963,306.0602526
+Pennsylvania,male,myeloma,2020,737.0202854,304.9267279
+Pennsylvania,male,myeloma,2019,687,309
+Pennsylvania,male,stomach,2019,684,273
+Pennsylvania,male,stomach,2022,671.6402842,265.2788095
+Pennsylvania,male,stomach,2021,670.4970225,264.3527419
+Pennsylvania,male,stomach,2020,669.3283437,263.2816538
+Pennsylvania,male,thyroid,2019,650,52
+Pennsylvania,female,oral cavity and pharynx,2022,641.2502474,145.6278488
+Pennsylvania,female,oral cavity and pharynx,2021,636.1320657,144.5753411
+Pennsylvania,male,thyroid,2020,635.8229038,45.55344559
+Pennsylvania,male,thyroid,2021,633.5314469,47.40434859
+Pennsylvania,female,oral cavity and pharynx,2020,632.6112208,142.2975902
+Pennsylvania,male,thyroid,2022,629.8930146,49.22954585
+Pennsylvania,female,oral cavity and pharynx,2019,604,159
+Pennsylvania,all sexes,larynx,2019,598,185
+Pennsylvania,all sexes,larynx,2020,586.8684529,184.8982214
+Pennsylvania,all sexes,larynx,2021,586.6254198,185.2808184
+Pennsylvania,all sexes,larynx,2022,586.3852318,185.656789
+Pennsylvania,male,brain and other nervous system,2022,585.9222152,469.735107
+Pennsylvania,male,brain and other nervous system,2021,584.9013242,462.2071224
+Pennsylvania,male,brain and other nervous system,2020,583.1224608,454.8920265
+Pennsylvania,male,brain and other nervous system,2019,568,428
+Pennsylvania,female,myeloma,2022,555.6791636,262.4201445
+Pennsylvania,female,myeloma,2021,550.7656949,261.7461049
+Pennsylvania,female,myeloma,2020,545.5559388,260.9004966
+Pennsylvania,female,cervix uteri,2022,513.456165,161.6291606
+Pennsylvania,female,myeloma,2019,513,258
+Pennsylvania,female,cervix uteri,2021,512.587676,161.6514729
+Pennsylvania,female,cervix uteri,2020,511.2402043,161.5668049
+Pennsylvania,female,cervix uteri,2019,487,146
+Pennsylvania,female,brain and other nervous system,2022,473.5233109,327.3726314
+Pennsylvania,female,brain and other nervous system,2021,472.8538464,325.5667552
+Pennsylvania,female,brain and other nervous system,2020,471.7614974,323.7156756
+Pennsylvania,male,larynx,2019,467,149
+Pennsylvania,female,brain and other nervous system,2019,462,306
+Pennsylvania,male,larynx,2020,457.2114593,144.7134837
+Pennsylvania,male,larynx,2021,456.6095223,144.8378646
+Pennsylvania,male,larynx,2022,456.1327265,144.98154
+Pennsylvania,female,liver and intrahepatic bile duct,2019,450,373
+Pennsylvania,female,liver and intrahepatic bile duct,2020,438.6176341,397.5223079
+Pennsylvania,female,liver and intrahepatic bile duct,2021,429.5326186,405.2881872
+Pennsylvania,female,liver and intrahepatic bile duct,2022,421.6454451,412.7862787
+Pennsylvania,all sexes,Hodgkin lymphoma,2022,416.6640851,32.59774348
+Pennsylvania,all sexes,Hodgkin lymphoma,2021,415.030145,33.49143249
+Pennsylvania,all sexes,Hodgkin lymphoma,2020,413.7686399,33.87407944
+Pennsylvania,all sexes,Hodgkin lymphoma,2019,384,41
+Pennsylvania,male,testis,2022,379.4101159,10.2258137
+Pennsylvania,male,testis,2020,378.5210213,10.7390885
+Pennsylvania,male,testis,2021,377.2522125,10.46186782
+Pennsylvania,female,stomach,2020,363.482249,166.8146585
+Pennsylvania,female,stomach,2021,361.812963,168.7835483
+Pennsylvania,female,stomach,2022,361.4553445,170.6691397
+Pennsylvania,female,stomach,2019,353,171
+Pennsylvania,male,testis,2019,344,11
+Pennsylvania,male,Hodgkin lymphoma,2022,227.6394487,21.87756339
+Pennsylvania,male,Hodgkin lymphoma,2021,226.3337162,21.85751304
+Pennsylvania,male,Hodgkin lymphoma,2020,225.687127,21.82707208
+Pennsylvania,male,Hodgkin lymphoma,2019,202,20
+Pennsylvania,female,Hodgkin lymphoma,2022,189.0246364,10.72018009
+Pennsylvania,female,Hodgkin lymphoma,2021,188.6964287,11.63391945
+Pennsylvania,female,Hodgkin lymphoma,2020,188.0815129,12.04700736
+Pennsylvania,female,esophagus,2022,184.887889,159.5131501
+Pennsylvania,female,esophagus,2021,184.5741976,159.336886
+Pennsylvania,female,esophagus,2020,184.0864663,159.0544535
+Pennsylvania,female,esophagus,2019,182,158
+Pennsylvania,female,Hodgkin lymphoma,2019,182,21
+Pennsylvania,female,larynx,2019,131,36
+Pennsylvania,female,larynx,2022,130.2525053,40.67524895
+Pennsylvania,female,larynx,2021,130.0158975,40.4429538
+Pennsylvania,female,larynx,2020,129.6569937,40.18473767
+Pennsylvania,male,breast,2019,115,23
+Pennsylvania,male,breast,2021,109.2460873,20.81663108
+Pennsylvania,male,breast,2022,108.9679013,21.14439482
+Pennsylvania,male,breast,2020,108.8051345,20.47648325
